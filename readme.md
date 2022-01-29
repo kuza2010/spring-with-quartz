@@ -7,4 +7,5 @@ You can always find original article [here](https://danilin-website.vercel.app/b
 ### Structure
 
 `/containe/docker` - folder with docker-compose file (to run MySql) and pre-init script
+
 `/src` - source code
